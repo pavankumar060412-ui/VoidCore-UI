@@ -1,0 +1,4 @@
+node_modules/
+dist/
+prebuild-src/
+.DS_Store
